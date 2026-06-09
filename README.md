@@ -93,7 +93,6 @@ The "wow" is that sales execution becomes visible, structured, role-aware, and m
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/09-personnel.png" alt="Personnel" width="48%">
   <img src="assets/screenshots/10-settings.png" alt="Settings" width="48%">
 </p>
 

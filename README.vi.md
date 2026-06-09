@@ -93,7 +93,6 @@ Hệ thống gom theo dõi dự án, quy trình đấu thầu, ngữ cảnh khá
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/09-personnel.png" alt="Nhân sự" width="48%">
   <img src="assets/screenshots/10-settings.png" alt="Cài đặt" width="48%">
 </p>
 
